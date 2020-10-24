@@ -1,7 +1,5 @@
 <h1 align="center">🚀 Flex Blog 🚀</h1>
 
-![Badge](/github/logo.png)
-
 ## 💻 Proposta do projeto
 
 Flex Blog é um site totalmente responsivo desenvolvido com Flexbox.
@@ -41,7 +39,5 @@ $ cd FlexBlog
 ## 📝 Licença
 
 Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
-
-<br />
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
