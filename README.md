@@ -1,17 +1,17 @@
 <h1 align="center">🚀 Flex Blog 🚀</h1>
 
-## 💻 Proposta do projeto
+## 💻 Project proposal
 
-Flex Blog é um site totalmente responsivo desenvolvido com Flexbox.
+Flex Blog is a fully responsive website developed with Flexbox.
 
 <h2 align=center>
-  ⭐ Prévia do projeto
+  ⭐ Project preview
 </h2>
 
 ![Badge](/github/web.gif)
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 
 <ul>
@@ -21,23 +21,23 @@ Flex Blog é um site totalmente responsivo desenvolvido com Flexbox.
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/FlexBlog.git
 ```
 
-### Navegue até a pasta do projeto
+### Navigate to the project folder
 
 ```bash
 $ cd FlexBlog
 ```
 
-## 📝 Licença
+## 📝 License
 
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
